@@ -1,0 +1,1 @@
+Average collaborator per repository: 0.51 collaborators per repository.

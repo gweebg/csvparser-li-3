@@ -1,0 +1,1 @@
+Each user has an average of 0.96 commits.
